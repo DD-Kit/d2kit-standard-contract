@@ -1,5 +1,8 @@
 ## D2Kit Dex Smart Contract Boilerplate
 
+### 👨‍💻Language: Solidity 
+### 🚀Carrier: Hardhat
+
 This repository includes standard cryptocurrency exchange protocol based on Uniswap V2 of UniswapLabs and NFT exchange protocol based on Niftyswap of 0xsequence.
 
 ### D2Kit V2 exchange Inheritance Map
