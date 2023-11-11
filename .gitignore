@@ -5,7 +5,7 @@ coverage.json
 typechain
 typechain-types
 
-hardhat.config.example.ts
+hardhat.config.ts
 
 # Hardhat files
 cache
